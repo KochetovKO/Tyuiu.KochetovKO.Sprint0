@@ -1,0 +1,20 @@
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyTitle("Tyuiu.KochetovKO.Sprint0.Task5.V0.Test")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Tyuiu.KochetovKO.Sprint0.Task5.V0.Test")]
+[assembly: AssemblyCopyright("Copyright ©  2025")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+[assembly: ComVisible(false)]
+
+[assembly: Guid("6968e3a8-a112-418a-bd19-c07aea000818")]
+
+// [assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
